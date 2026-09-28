@@ -1,2 +1,5 @@
 # macOS
 .DS_Store
+
+# Local settings and secrets: never commit
+.env
